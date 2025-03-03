@@ -175,6 +175,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-  <p>Created with ❤️ by YourName</p>
+  <p>Created with ❤️ DFD</p>
   <p>© 2025 - All Rights Reserved</p>
 </div>
