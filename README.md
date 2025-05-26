@@ -33,7 +33,7 @@
 ## 🚀 Quick Start
 
 ### 💻 **Ready to Use** (No Installation)
-1. **[Download latest release](https://github.com/yourusername/calc-arcade/releases/latest)**
+1. **[Download latest release](https://github.com/DevilFruitDev/calc-arcade/releases/latest)**
 2. **Extract and run** `calc-arcade.exe`
 3. **Start calculating!** 🎉
 
@@ -97,8 +97,8 @@ MIT License - see [LICENSE.md](LICENSE.md) for details.
 
 **Made with ❤️ and lots of ☕ by DEV**
 
-[![⭐ Star this repo](https://img.shields.io/github/stars/yourusername/calc-arcade?style=social)](https://github.com/yourusername/calc-arcade)
-[![🍴 Fork it](https://img.shields.io/github/forks/yourusername/calc-arcade?style=social)](https://github.com/yourusername/calc-arcade/fork)
+[![⭐ Star this repo](https://img.shields.io/github/stars/DevilFruitDev/calc-arcade?style=social)](https://github.com/DevilFruitDev/calc-arcade)
+[![🍴 Fork it](https://img.shields.io/github/forks/DevilFruitDev/calc-arcade?style=social)](https://github.com/DevilFruitDev/calc-arcade/fork)
 
 **Transform boring math into an engaging experience! 🎮✨**
 
